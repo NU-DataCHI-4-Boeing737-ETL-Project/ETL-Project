@@ -1,0 +1,222 @@
+airport_id,airport,city,state,lat,long
+ORD,Chicago O'Hare International,Chicago,IL,41.979595,-87.90446417
+ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,33.64044444,-84.42694444
+DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,32.89595056,-97.0372
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,33.43416667,-112.00805559999999
+DEN,Denver Intl,Denver,CO,39.85840806,-104.6670019
+IAH,George Bush Intercontinental,Houston,TX,29.98047222,-95.33972222
+SFO,San Francisco International,San Francisco,CA,37.61900194,-122.3748433
+LAX,Los Angeles International,Los Angeles,CA,33.94253611,-118.40807439999999
+MCO,Orlando International,Orlando,FL,28.42888889,-81.31602778
+CLT,Charlotte/Douglas International,Charlotte,NC,35.21401111,-80.94312583
+SLC,Salt Lake City Intl,Salt Lake City,UT,40.78838778,-111.9777731
+TPA,Tampa International ,Tampa,FL,27.97547222,-82.53325
+EWR,Newark Intl,Newark,NJ,40.69249722,-74.16866056
+LAS,McCarran International,Las Vegas,NV,36.08036111,-115.15233329999998
+PHL,Philadelphia Intl,Philadelphia,PA,39.87195278,-75.24114083
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,44.88054694,-93.2169225
+SEA,Seattle-Tacoma Intl,Seattle,WA,47.44898194,-122.30931310000001
+LGA,LaGuardia,New York,NY,40.77724306,-73.87260917
+MDW,Chicago Midway,Chicago,IL,41.7859825,-87.75242444
+IAD,Washington Dulles International,Chantilly,VA,38.94453194,-77.45580972
+SAN,San Diego International-Lindbergh ,San Diego,CA,32.73355611,-117.1896567
+STL,Lambert-St Louis International,St Louis,MO,38.74768694,-90.35998972
+DTW,Detroit Metropolitan-Wayne County,Detroit,MI,42.21205889,-83.34883583
+JFK,John F Kennedy Intl,New York,NY,40.63975111,-73.77892556
+MIA,Miami International,Miami,FL,25.79325,-80.29055556
+BOS,Gen Edw L Logan Intl,Boston,MA,42.3643475,-71.00517917
+SMF,Sacramento International,Sacramento,CA,38.69542167,-121.5907669
+BWI,Baltimore-Washington International,Baltimore,MD,39.17540167,-76.66819833
+SNA,John Wayne /Orange Co,Santa Ana,CA,33.67565861,-117.86822250000002
+MSY,New Orleans International ,New Orleans,LA,29.99338889,-90.25802778
+SJC,San Jose International,San Jose,CA,37.36186194,-121.92900890000001
+DCA,Ronald Reagan Washington National,Arlington,VA,38.85208333,-77.03772222
+PDX,Portland Intl,Portland,OR,45.58872222,-122.5975
+RSW,Southwest Florida International,Ft. Myers,FL,26.53616667,-81.75516667
+PBI,Palm Beach International,West Palm Beach,FL,26.68316194,-80.09559417
+RDU,Raleigh-Durham International,Raleigh,NC,35.87763889,-78.78747222
+HOU,William P Hobby,Houston,TX,29.64541861,-95.27888889
+SAT,San Antonio International,San Antonio,TX,29.53369444,-98.46977778
+FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,26.07258333,-80.15275
+MCI,Kansas City International,Kansas City,MO,39.29760528,-94.71390556
+OAK,Metropolitan Oakland International,Oakland,CA,37.72129083,-122.22071670000001
+PIT,Pittsburgh International,Pittsburgh,PA,40.49146583,-80.23287083
+MEM,Memphis International,Memphis,TN,35.04241667,-89.97666667
+MKE,General Mitchell International,Milwaukee,WI,42.94722222,-87.89658333
+CLE,Cleveland-Hopkins Intl,Cleveland,OH,41.41089417,-81.84939667
+JAX,Jacksonville International,Jacksonville,FL,30.49405556,-81.68786111
+TUS,Tucson International,Tucson,AZ,32.11608333,-110.94102779999999
+IND,Indianapolis International,Indianapolis,IN,39.71732917,-86.29438417
+RNO,Reno/Tahoe International,Reno,NV,39.49857611,-119.76806470000001
+OKC,Will Rogers World,Oklahoma City,OK,35.39308833,-97.60073389
+PVD,Theodore F Green State,Providence,RI,41.72399917,-71.42822111
+TUL,Tulsa International,Tulsa,OK,36.19837222,-95.88824167
+CVG,Cincinnati Northern Kentucky Intl,Covington,KY,39.04614278,-84.6621725
+CMH,Port Columbus Intl,Columbus,OH,39.99798528,-82.89188278
+SDF,Louisville International-Standiford ,Louisville,KY,38.17438889,-85.736
+ONT,Ontario International,Ontario,CA,34.056,-117.60119440000001
+LIT,Adams ,Little Rock,AR,34.72939611,-92.22424556
+DAL,Dallas Love ,Dallas,TX,32.84711389,-96.85177222
+OMA,Eppley Airfield,Omaha,NE,41.30251861,-95.89417306
+ORF,Norfolk International,Norfolk,VA,36.89461111,-76.20122222
+DAY,James M Cox Dayton Intl,Dayton,OH,39.90237583,-84.219375
+ROC,Greater Rochester Int'l,Rochester,NY,43.11886611,-77.67238389
+XNA,Northwest Arkansas Regional,Fayetteville/Springdale/Rogers,AR,36.28186944,-94.30681111
+BNA,Nashville International,Nashville,TN,36.12447667,-86.67818222
+ABQ,Albuquerque International,Albuquerque,NM,35.04022222,-106.6091944
+JAN,Jackson International,Jackson,MS,32.31116667,-90.07588889
+ELP,El Paso International,El Paso,TX,31.80666667,-106.37780559999999
+RIC,Richmond International,Richmond,VA,37.50516667,-77.31966667
+BDL,Bradley International,Windsor Locks,CT,41.93887417,-72.68322833
+MAF,Midland International,Midland,TX,31.94252778,-102.20191390000001
+BTR,"Baton Rouge Metropolitan, Ryan ",Baton Rouge,LA,30.53316083,-91.14963444
+TYS,McGhee-Tyson,Knoxville,TN,35.81248722,-83.99285583
+COS,City of Colorado Springs Muni,Colorado Springs,CO,38.80580556,-104.70025
+PNS,Pensacola Regional,Pensacola,FL,30.47330556,-87.18744444
+SYR,Syracuse-Hancock Intl,Syracuse,NY,43.11118694,-76.10631056
+BHM,Birmingham International,Birmingham,AL,33.56294306,-86.75354972
+MHT,Manchester,Manchester,NH,42.93451639,-71.43705583
+PSP,Palm Springs International,Palm Springs,CA,33.82921556,-116.5062531
+SRQ,Sarasota Bradenton International,Sarasota,FL,27.39533333,-82.55411111
+CRP,Corpus Christi International,Corpus Christi,TX,27.77036083,-97.50121528
+HSV,Huntsville International ,Huntsville,AL,34.6404475,-86.77310944
+CAE,Columbia Metropolitan,Columbia,SC,33.93884,-81.11953944
+LFT,Lafayette Regional,Lafayette,LA,30.20527972,-91.987655
+SBA,Santa Barbara Municipal,Santa Barbara,CA,34.42621194,-119.8403733
+GEG,Spokane Intl,Spokane,WA,47.61985556,-117.5338425
+MOB,Mobile Regional,Mobile,AL,30.69141667,-88.24283333
+ICT,Wichita Mid-Continent,Wichita,KS,37.64995889,-97.43304583
+BUF,Buffalo Niagara Intl,Buffalo,NY,42.94052472,-78.73216667
+DSM,Des Moines International,Des Moines,IA,41.53493306,-93.66068222
+MDT,Harrisburg Intl,Harrisburg,PA,40.19349528,-76.76340361
+PWM,Portland International Jetport,Portland,ME,43.64616667,-70.30875
+AGS,Bush ,Augusta,GA,33.369955,-81.96449611
+MGM,Montgomery Regional Apt,Montgomery,AL,32.30064417,-86.39397611
+PHF,Newport News/Williamsburg International,Newport News,VA,37.13189556,-76.4929875
+HPN,Westchester Cty,White Plains,NY,41.06695778,-73.70757444
+MRY,Monterey Peninsula,Monterey,CA,36.5869825,-121.84294779999999
+GRR,Kent County International,Grand Rapids,MI,42.88081972,-85.52276778
+ECP,Florida Beach,Beaches,FL,30.448674,-84.550781
+YUM,Yuma MCAS-Yuma International,Yuma,AZ,32.65658333,-114.60597220000001
+ASE,Aspen-Pitkin Co/Sardy ,Aspen,CO,39.22316,-106.868845
+TLH,Tallahassee Regional,Tallahassee,FL,30.39652778,-84.35033333
+GPT,Gulfport-Biloxi Regional,Gulfport-Biloxi,MS,30.40728028,-89.07009278
+RAP,Rapid City Regional,Rapid City,SD,44.04532139,-103.0573708
+LGB,Long Beach (Daugherty ),Long Beach,CA,33.81772222,-118.1516111
+ILM,Wilmington International,Wilmington,NC,34.27061111,-77.90255556
+LEX,Blue Grass ,Lexington,KY,38.03697222,-84.60538889
+MSN,Dane County Regional,Madison,WI,43.13985778,-89.33751361
+EUG,Mahlon Sweet ,Eugene,OR,44.123259999999995,-123.21868559999999
+SAV,Savannah International,Savannah,GA,32.12758333,-81.20213889
+LBB,Lubbock International,Lubbock,TX,33.66363889,-101.8227778
+CID,Eastern Iowa ,Cedar Rapids,IA,41.88458833,-91.71087222
+GSP,Greenville-Spartanburg,Greer,SC,34.89566722,-82.21885833
+GSO,Piedmont Triad International,Greensboro,NC,36.09774694,-79.9372975
+ISP,Long Island - MacArthur,Islip,NY,40.7952425,-73.10021194
+MLI,Quad City,Moline,IL,41.44852639,-90.50753917
+AVL,Asheville Regional,Asheville,NC,35.43619444,-82.54180556
+CAK,Akron-Canton Regional,Akron,OH,40.91631194,-81.44246556
+BMI,Central Illinois Regional,Bloomington,IL,40.47798556,-88.91595278
+HRL,Valley International,Harlingen,TX,26.22850611,-97.65439389
+VPS,Eglin Air Force Base,Valparaiso,FL,30.48325,-86.5254
+SHV,Shreveport Regional,Shreveport,LA,32.446627500000005,-93.82559833
+FAR,Hector International,Fargo,ND,46.91934889,-96.81498889
+HDN,Yampa Valley,Hayden,CO,40.48118028,-107.21765970000001
+MFR,Rogue Valley International,Medford,OR,42.37422778,-122.8734978
+PIA,Greater Peoria Regional,Peoria,IL,40.66424333,-89.69330556
+LRD,Laredo International,Laredo,TX,27.54373861,-99.46154361
+AUS,Austin-Bergstrom International,Austin,TX,30.19453278,-97.66987194
+ABI,Abilene Regional,Abilene,TX,32.41132,-99.68189722
+SGF,Springfield-Branson Regional,Springfield,MO,37.24432611,-93.38685806
+FNT,Bishop,Flint,MI,42.96550333,-83.74345639
+TRI,Tri-Cities Regional,Bristol,TN,36.47521417,-82.40742056
+GRK,Robert Gray AAF,Killeen,TX,31.06489778,-97.82779778
+CHS,Charleston AFB/International,Charleston,SC,32.89864639,-80.04050583
+GRB,Austin Straubel International,Green Bay,WI,44.48507333,-88.12959000000001
+RDM,Roberts ,Redmond,OR,44.25406722,-121.1499633
+CSG,Columbus Metropolitan,Columbus,GA,32.51633333,-84.93886111
+SBN,South Bend Regional,South Bend,IN,41.70895361,-86.31847417
+BOI,Boise Air Terminal,Boise,ID,43.56444444,-116.22277779999999
+MYR,Myrtle Beach International,Myrtle Beach,SC,33.67975,-78.92833333
+MOT,Minot International,Minot,ND,48.25937778,-101.2803339
+CMI,University of Illinois-Willard,Champaign/Urbana,IL,40.03925,-88.27805556
+ROA,Roanoke Regional/ Woodrum ,Roanoke,VA,37.32546833,-79.97542833
+EGE,Eagle County Regional,Eagle,CO,39.64256778,-106.91769529999999
+JAC,Jackson Hole,Jackson,WY,43.60732417,-110.7377389
+BZN,Gallatin ,Bozeman,MT,45.77690139,-111.15300719999999
+GJT,Walker ,Grand Junction,CO,39.1224125,-108.5267347
+BUR,Burbank-Glendale-Pasadena,Burbank,CA,34.20061917,-118.3584969
+EVV,Evansville Regional,Evansville,IN,38.03799139,-87.53062667
+GUC,Gunnison County,Gunnison,CO,38.53396333,-106.9331817
+IDA,Idaho Falls Regional,Idaho Falls,ID,43.51455556,-112.07016670000002
+FAT,Fresno Yosemite International,Fresno,CA,36.77619444,-119.7181389
+SPI,Capital,Springfield,IL,39.84395194,-89.67761861
+MFE,McAllen Miller International,McAllen,TX,26.17583333,-98.23861111
+RDD,Redding Municipal,Redding,CA,40.50898361,-122.2934019
+GFK,Grand Forks International,Grand Forks,ND,47.949255,-97.17611111
+FSD,Joe Foss ,Sioux Falls,SD,43.58135111,-96.74170028
+TWF,Joslin Field - Magic Valley,Twin Falls,ID,42.48180389,-114.4877356
+SMX,Santa Maria Pub/Capt G Allan Hancock ,Santa Maria,CA,34.89924833,-120.4575825
+PIH,Pocatello Regional,Pocatello,ID,42.91130556,-112.59586110000001
+DHN,Dothan ,Dothan,AL,31.32133917,-85.44962889
+OAJ,Albert J Ellis,Jacksonville,NC,34.82916444,-77.61213778
+MTJ,Montrose Regional,Montrose,CO,38.50886722,-107.89383329999998
+BIS,Bismarck Municipal,Bismarck,ND,46.77411111,-100.74672220000001
+CPR,Natrona County Intl,Casper,WY,42.90835556,-106.46446609999998
+TVC,Cherry Capital,Traverse City,MI,44.74144472,-85.582235
+MLU,Monroe Regional,Monroe,LA,32.51086556,-92.03768778
+PSC,Tri-Cities,Pasco,WA,46.26468028,-119.11902920000001
+MHK,Manhattan Regional,Manhattan,KS,39.14096722,-96.67083278
+AEX,Alexandria International,Alexandria,LA,31.32737167,-92.54855611
+OTH,North Bend Muni,North Bend,OR,43.41713889,-124.2460278
+SAF,Santa Fe Municipal,Santa Fe,NM,35.61677778,-106.08813889999999
+LMT,Klamath Falls International,Klamath Falls,OR,42.15614361,-121.7332081
+SWF,Stewart,Newburgh,NY,41.50409361,-74.10483833
+CHO,Charlottesville-Albermarle,Charlottesville,VA,38.13863889,-78.45286111
+VLD,Valdosta Regional,Valdosta,GA,30.7825,-83.27672222
+CWA,Central Wisconsin,Mosinee,WI,44.77761917,-89.66677944
+IYK,Inyokern,Inyokern,CA,35.65884306,-117.8295122
+ACV,Arcata,Arcata/Eureka,CA,40.97811528,-124.1086189
+BQK,Glynco Jetport,Brunswick,GA,31.25902778,-81.46630556
+LNK,Lincoln Municipal,Lincoln,NE,40.85097222,-96.75925
+FWA,Fort Wayne International,Fort Wayne,IN,40.97846583,-85.19514639
+COD,Yellowstone Regional,Cody,WY,44.52019417,-109.02379609999998
+PAH,Barkley Regional,Paducah,KY,37.06083333,-88.77375
+SBP,San Luis Obispo Co-McChesney ,San Luis Obispo,CA,35.23705806,-120.64239309999999
+AVP,Wilkes-Barre/Scranton Intl,Wilkes-Barre/Scranton,PA,41.33814944,-75.72426750000001
+GTR,Golden Triangle Regional,Columbus-Starkville-West Point,MS,33.45033444,-88.59136861
+GCC,Gillette-Campbell County,Gillette,WY,44.34889806,-105.5393614
+EWN,Craven County Regional,New Bern,NC,35.07297222,-77.04294444
+FSM,Fort Smith Regional,Fort Smith,AR,35.33659028,-94.36744111
+TYR,Tyler Pounds ,Tyler,TX,32.35413889,-95.40238611
+HLN,Helena Regional,Helena,MT,46.60681806,-111.9827503
+GTF,Great Falls Intl,Great Falls,MT,47.48200194,-111.37068529999999
+MEI,Key ,Meridian,MS,32.33313333,-88.75120556
+MQT,Marquette County Airport,,,46.353639,-87.395361
+TEX,Telluride Regional,Telluride,CO,37.95375861,-107.90848000000001
+CHA,Lovell ,Chattanooga,TN,35.03526833,-85.20378778
+LWS,Lewiston-Nez Perce County,Lewiston,ID,46.37449806,-117.01539440000002
+CDC,Cedar City Muni,Cedar City,UT,37.70097028,-113.098575
+ALB,Albany Cty,Albany,NY,42.74811944,-73.80297861
+BTV,Burlington International,Burlington,VT,44.47300361,-73.1503125
+FCA,Glacier Park Intl,Kalispell,MT,48.31140472,-114.25506940000001
+MLB,Melbourne International ,Melbourne,FL,28.10275,-80.64580556
+DAB,Daytona Beach International,Daytona Beach,FL,29.17991667,-81.05805556
+ABE,Lehigh Valley International,Allentown,PA,40.65236278,-75.44040167
+DLH,Duluth International,Duluth,MN,46.84209028,-92.19364861
+CYS,Cheyenne,Cheyenne,WY,41.155722499999996,-104.81183809999999
+RKS,Rock Springs-Sweetwater County,Rock Springs,WY,41.5942175,-109.0651928
+LWB,Greenbrier Valley,Lewisburg,WV,37.85830556,-80.39947222
+CRW,Yeager,Charleston,WV,38.37315083,-81.59318972
+BLI,Bellingham Intl,Bellingham,WA,48.79275,-122.53752779999999
+MMH,Mammoth Yosemite,Mammoth Lakes,CA,37.62404861,-118.8377722
+ATW,Outagamie County Regional,Appleton,WI,44.25740806,-88.51947556
+BKG,Branson Airport,Hollister,MO,36.385913,-92.548828
+PIE,St. Petersburg-Clearwater International,St. Petersburg,FL,27.91076333,-82.68743944
+SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,33.98879611,-98.49189333
+FAY,Fayetteville Municipal,Fayetteville,NC,34.99147222,-78.88
+EAU,Chippewa Valley Regional,Eau Claire,WI,44.86525722,-91.48507194
+DBQ,Dubuque Municipal,Dubuque,IA,42.40295944,-90.70916722
+RST,Rochester International,Rochester,MN,43.90882639,-92.49798722
+UTM,Tunica Municipal Airport,Tunica,MS,34.681499,-90.348816
+BIL,Billings Logan Intl,Billings,MT,45.8076625,-108.54286110000001
